@@ -2,3 +2,13 @@
     height: 400px;
     align-items: center;
 }
+.custom-details {
+    width: 200px;
+    height: 200px;
+    border-radius: 100%;
+    margin: auto;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
